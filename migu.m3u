@@ -5,3 +5,7 @@ http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8?hls
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1,4kHLS
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1,4kHLS
+http://mgsp-hs.live.miguvideo.com:8088/migu/sports/50zhenyhtest03/902/20221027/01.m3u8?hls
+#EXTINF:-1,4kHLS
+http://mgsp-hs.live.miguvideo.com:8088/migu/sports/50zhenyhtest03/902/20221027/01.m3u8?msisdn=c101c7b3f9f5739105054ed170604b31&mdspid=&spid=800033&netType=4&sid=7510087065&pid=2028597139&timestamp=20221122212828&Channel_ID=0116_2600000710-99000-201600010010027&ProgramID=751037170&ParentNodeID=-99&assertID=7510087065&client_ip=120.37.63.146&SecurityKey=20221122212828&mvid=7510043401&mcid=500020&mpid=120000267864&playurlVersion=WX-A1-5.11.5-RELEASE&userid=353810964&jmhm=c101c7b3f9f5739105054ed170604b31&videocodec=h265&mgdbId=120000267864&bean=mgspad&jid=ce639de2ac8a005a69bc2276e0a2d20e1669123708382V&LegoPageID=null&is_advertise=0&sjid=subsession_1669123708397&mtv_session=db84aac313c6dbc13cfed93b457840ba&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8841aa55f5b39370a9c41a9fa8573794
