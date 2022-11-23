@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:4kHLS
+http://mgsp-hs.live.miguvideo.com:8088/migu/sports/50zhenyhtest03/902/20221027/01.m3u8?hls
+#EXTINF:-1,4kHLS
+http://mgsp-hs.live.miguvideo.com:8088/migu/sports/50zhenyhtest03/
+#EXTINF:-1,4kHLS
+http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8?hls
+#EXTINF:-1,4kHLS
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1,4kHLS
+http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
