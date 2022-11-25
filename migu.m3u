@@ -7,8 +7,8 @@ http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 http://159.75.85.63:5678/zb.php?id=douyin
 #EXTINF:-1,抖音4k
 http://mmmitv.top/test/douyin-x.php?id=rand
-#EXTINF:-1,4kHLS
-http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1,抖音
+https://pull-flv-spe-l11.douyinliving.com/fantasy/stream-112027937376567990_spuhd.flv?_neptune_token=MIGmBAyqd0_1RKAumNlvAPYEgYM9A-bkxYxV5bypnxV12UTEe-MHWseXjWcM4sVv0XZ0qYIbgo_B21djuQxqUnshiJ-V4FL7whUuK4Acb-c0nWiBJfYq6ZCii1Vy1KHKRcDvlbVfptnS1YB9UElWE-inq1CFK2ainzTwVFL08yHASclLjgSchrAUyau58HuXJc60aF241wQQKcyr4nIL75WLbR9bScMD_A&expire=1669465840&sign=499eb8aa7f34556e239ebb8c110dd6aa&abr_pts=-1800
 #EXTINF:-1,4kHLS
 http://mgsp-hs.live.miguvideo.com:8088/migu/sports/50zhenyhtest03/902/20221027/01.m3u8?hls
 #EXTINF:-1,4kHLS
